@@ -1,4 +1,4 @@
-**Automated Flappy Bird**
+#Automated Flappy Bird
 
 This project implements an automated version of the popular game Flappy Bird using Python and the NEAT (NeuroEvolution of Augmenting Topologies) library. The game features a neural network trained through NEAT to play Flappy Bird autonomously, achieving the highest score possible.
 
